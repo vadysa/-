@@ -1,0 +1,5 @@
+﻿  MainForm.cpp
+C:\Users\Вадик\Desktop\Учёба\2курс.2сем\ооп\курсовая\Project\Project\StaticContainer.h(30,1): warning C4267: return: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Вадик\Desktop\Учёба\2курс.2сем\ооп\курсовая\Project\Project\Externalfunction.h(53,13): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  MainForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project.vcxproj -> C:\Users\Вадик\Desktop\Учёба\2курс.2сем\ооп\курсовая\Project\x64\Debug\Project.exe

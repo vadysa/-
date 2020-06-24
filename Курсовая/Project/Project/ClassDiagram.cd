@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ISoftware" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QQAAAAAAAAAAAACAIAAIAAAAAAAACAAAAAAAQAAUBAI=</HashCode>
+      <FileName>ISoftware.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneralPurposePrograms" Collapsed="true">
+    <Position X="11.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAQAAAAAAAAABACAAAAABAAAAEAAA=</HashCode>
+      <FileName>GeneralPurposePrograms.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DinamicVector&lt;T&gt;" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAIEAAAQAABAAAAAAgQAAgAIAAAA=</HashCode>
+      <FileName>DinamicVector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Container&lt;T&gt;" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAgAAAAAIAAAAAAACAAAAAAAAAAABACAA=</HashCode>
+      <FileName>Container.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationSoftware" Collapsed="true">
+    <Position X="12.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAABCAAAAAAAQAEEAAA=</HashCode>
+      <FileName>ApplicationSoftware.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Storage" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAIAABAACAAAAAAAAAAAABAECAAAAAAAgAAAAA=</HashCode>
+      <FileName>Storage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StaticVector" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAABAQAAAAAAAQAAAAQAAEAQAAAAAAAIAAAA=</HashCode>
+      <FileName>StaticVector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystemSoftware" Collapsed="true">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="Software" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="11" Y="2.191" />
+        <Point X="11" Y="2.875" />
+        <Point X="8.733" Y="2.875" />
+        <Point X="8.733" Y="3.25" />
+        <Point X="8.688" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAIAAAAAAAAAAIAAAAAAAABCAAAAAAAAAAEAAA=</HashCode>
+      <FileName>SystemSoftware.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeviceDrivers" Collapsed="true">
+    <Position X="8" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAgAAAAgAAAAAAAACgAAAAAAAAAEAAA=</HashCode>
+      <FileName>DeviceDrivers.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OperatingSystems" Collapsed="true">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAEAAAAAAAAAgAAAAAAAICAAAAAAAAAAEAAA=</HashCode>
+      <FileName>OperatingSystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgrammingSystems" Collapsed="true">
+    <Position X="10.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAQAIAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAAEAAA=</HashCode>
+      <FileName>ProgrammingSystems.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Software" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAAEAAACAIIAIAAAAAAAUAAAAAAAAQAAUBAI=</HashCode>
+      <FileName>Software.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpecialPurposePrograms" Collapsed="true">
+    <Position X="13.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIAAAAAAAAAAAABAAAAAAAAAAACAAAAAAAAAIEAAA=</HashCode>
+      <FileName>SpecialPurposePrograms.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Utility" Collapsed="true">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <InheritanceLine Type="SystemSoftware" FixedToPoint="true">
+      <Path>
+        <Point X="8.75" Y="3.941" />
+        <Point X="8.75" Y="4.375" />
+        <Point X="6.75" Y="4.375" />
+        <Point X="6.75" Y="4.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAgAAAggAAAAAAACAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Utility.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

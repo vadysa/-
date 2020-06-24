@@ -1,0 +1,3 @@
+C:\Users\Вадик\Desktop\Учёба\2курс.2сем\ооп\курсовая\Project\Project\Release\Project.vcxprojAssemblyReference.cache
+C:\Users\Вадик\Desktop\Учёба\2курс.2сем\ооп\курсовая\Project\Project\Release\Project.MainForm.resources
+C:\Users\Вадик\Desktop\Учёба\2курс.2сем\ооп\курсовая\Project\Project\Release\Project.vcxproj.GenerateResource.cache
